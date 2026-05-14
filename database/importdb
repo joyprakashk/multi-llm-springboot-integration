@@ -1,0 +1,1 @@
+psql -h localhost -p 5433 ai_324 < ai-sb324.sql

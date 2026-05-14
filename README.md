@@ -1,10 +1,5 @@
 ﻿# Gen AI Fusion Service
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=arafkarsh_ms-springboot-324-ai&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=arafkarsh_ms-springboot-324-ai)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=arafkarsh_ms-springboot-324-ai&metric=bugs)](https://sonarcloud.io/summary/new_code?id=arafkarsh_ms-springboot-324-ai)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=arafkarsh_ms-springboot-324-ai&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=arafkarsh_ms-springboot-324-ai)
-[![Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=arafkarsh_ms-springboot-324-ai&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=arafkarsh_ms-springboot-324-ai)
-
 ## Overview
 
 Gen AI Fusion Service is a Spring Boot 3.4.1 application that integrates multiple Large Language Models (LLMs) using LangChain4J 0.30.0. The service provides a unified API for interacting with cloud-based and local LLMs, enabling enterprise-grade AI capabilities including natural language processing, content generation, sentiment analysis, data extraction, and retrieval-augmented generation (RAG).

@@ -1,8 +1,8 @@
-﻿# Gen AI Fusion Service
+﻿# Multi LLM Springboot Integration Service
 
 ## Overview
 
-Gen AI Fusion Service is a Spring Boot 3.4.1 application that integrates multiple Large Language Models (LLMs) using LangChain4J 0.30.0. The service provides a unified API for interacting with cloud-based and local LLMs, enabling enterprise-grade AI capabilities including natural language processing, content generation, sentiment analysis, data extraction, and retrieval-augmented generation (RAG).
+This is a Spring Boot 3.4.1 application that integrates multiple Large Language Models (LLMs) using LangChain4J 0.30.0. The service provides a unified API for interacting with cloud-based and local LLMs, enabling enterprise-grade AI capabilities including natural language processing, content generation, sentiment analysis, data extraction, and retrieval-augmented generation (RAG).
 
 ## Technology Stack
 
@@ -152,8 +152,8 @@ spring.datasource.password=ENC(<encrypted-password>)
 
 1. Clone the repository
 ```bash
-git clone https://github.com/arafkarsh/ms-springboot-324-ai.git
-cd ms-springboot-324-ai
+git clone https://github.com/joyprakashk/multi-llm-springboot-integration.git
+cd multi-llm-springboot-integration
 ```
 
 2. Set up environment variables
